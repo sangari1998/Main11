@@ -35,21 +35,12 @@
 <br>
 <br>
 
-**Current Lecture :** 
+**Current Study :** 
 
-- 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
+- 2023.02 ~ 방송통신대학교 컴퓨터과학과 재학중
+- 2023.10.05 ~ 웹개발 풀스택과정 학습중
 <br /><br />
 
 
 <br />
 
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
