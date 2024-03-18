@@ -5,7 +5,6 @@
 <br /><br />
 <p>
 백엔드 웹개발자로 시작하여 지속적인 성장을 통해 자아실현을 하고싶습니다
-</p>https://github.com/sangari1998/Main11/blob/main/README.md
   
 
 **My tech stack :**  
